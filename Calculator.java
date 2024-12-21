@@ -60,6 +60,9 @@ public class Calculator {
             ch = s.next(); 
 
         } while (ch.equalsIgnoreCase("Y")); 
-        s.close(); 
+        s.close();
+
+        System.out.println("HHello");
+
     }
 }
